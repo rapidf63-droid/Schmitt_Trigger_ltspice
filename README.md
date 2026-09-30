@@ -70,6 +70,6 @@ Input sine wave and output, showing the switching points.
 
 ## Author
 
-**Melissa Sebastian**.
-Muthoot Institute of Technology & Science · Electronics & Communication/2024.
-www.linkedin.com/in/melissa-sebastian-49249020b .
+**Melissa Sebastian** <br>
+Muthoot Institute of Technology & Science · Electronics & Communication / 2024 <br>
+www.linkedin.com/in/melissa-sebastian-49249020b 
