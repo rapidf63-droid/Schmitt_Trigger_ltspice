@@ -1,6 +1,6 @@
 # Schmitt Trigger Simulation in LTspice
 
-A simulation of an **Inverting Schmitt trigger with a reference voltage**, built and analysed in LTspice as part of my coursework at **Muthoot Institue of Technology & Science**.
+A simulation of an **Inverting Schmitt trigger with a reference voltage**, built and analysed in LTspice as part of my coursework at **Muthoot Institute of Technology & Science**.
 
 A Schmitt trigger is a comparator with hysteresis: positive feedback makes the output switch at two different thresholds (upper and lower), so it ignores noise on slowly changing inputs. In this design, a 2.5 V reference shifts the hysteresis window away from 0 V.
 
@@ -70,6 +70,6 @@ Input sine wave and output, showing the switching points.
 
 ## Author
 
-**Melissa Sebastian**
-Muthoot Institue of Technology & Science· Electronics & Communication/2024
+**Melissa Sebastian**··
+Muthoot Institute of Technology & Science · Electronics & Communication/2024 ··
 www.linkedin.com/in/melissa-sebastian-49249020b
