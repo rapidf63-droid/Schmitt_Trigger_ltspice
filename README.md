@@ -4,7 +4,7 @@ A simulation of an **Inverting Schmitt trigger with a reference voltage**, built
 
 A Schmitt trigger is a comparator with hysteresis: positive feedback makes the output switch at two different thresholds (upper and lower), so it ignores noise on slowly changing inputs. In this design, a 2.5 V reference shifts the hysteresis window away from 0 V.
 
-![Schematic](images/schematic.png)
+![Schematic](images/Schematic.png)
 
 ## Circuit Overview
 
