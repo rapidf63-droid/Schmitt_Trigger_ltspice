@@ -56,7 +56,7 @@ Expected timing for the 1 kHz, 5 V peak input (from the thresholds above): the o
 ### Transient response
 Input sine wave and output, showing the switching points.
 
-![Transient](images/Schmitt_Trigger.png)
+![Transient](images/SchmittTrigger.png)
 
 ### Hysteresis curve (V_out vs V_in)
 ![Hysteresis](images/hysteresis.png)
